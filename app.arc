@@ -8,7 +8,7 @@ runtime nodejs18.x
 # profile default
 region eu-west-2
 # timeout 30
-@aws
+
 @http
 /*
   method any
